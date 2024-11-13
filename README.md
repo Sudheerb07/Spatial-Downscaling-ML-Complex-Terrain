@@ -46,7 +46,7 @@ Evaluation: Run the notebooks/evaluation.ipynb notebook to generate performance 
 
 
 Citation
-If you use this code or data in your research, please cite the original paper:
+If you use this code in your research, please cite the original paper:
 @article{bhakare2024spatialdownscaling,
   title={Intercomparison of Machine Learning Models for Spatial Downscaling of Daily Mean Temperature in Complex Terrain},
   author={Sudheer Bhakare, Sara Dal Gesso, Marco Venturini, Dino Zardi, Laura Trentini, Michael Matiu, Marcello Petitta},
