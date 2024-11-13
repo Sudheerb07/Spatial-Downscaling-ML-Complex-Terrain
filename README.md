@@ -34,7 +34,7 @@ Requirements
 To replicate this study, you will need the following Python packages:
 tensorflow,
 scikit-learn,
-xarray.
+xarray,
 numpy,
 matplotlib,
 pyproj
