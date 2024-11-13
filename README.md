@@ -32,11 +32,11 @@ Elevation was an essential predictor for ANN and RF, while CNN captured spatial 
 
 Requirements
 To replicate this study, you will need the following Python packages:
-tensorflow
-scikit-learn
-xarray
-numpy
-matplotlib
+tensorflow,
+scikit-learn,
+xarray.
+numpy,
+matplotlib,
 pyproj
 
 Usage
